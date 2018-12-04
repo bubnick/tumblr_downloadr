@@ -1,6 +1,6 @@
 # tumblr_downloadr
 
-Downloads all photos to a blog, optionally filtered by a tag, to the directory it is ran in.
+Downloads all photos from a blog, optionally filtered by a tag, to the directory it is ran in.
 
 Instructions on generating your oAuth Tumblr consumer key [here](https://www.tumblr.com/oauth/apps)
 
