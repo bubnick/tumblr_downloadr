@@ -47,5 +47,5 @@ while offset <= total_posts:
     post_json = requests.get(uri + str(offset)).json()
 
     total_posts = post_json['response']['total_posts']
-
+    post_list.clear()
 print("Images located at:  " + os.getcwd())
